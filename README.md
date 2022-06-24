@@ -4,8 +4,8 @@ As a fun fact, this website is created at 2022.6.19, and I'm still learning how 
 ## [companion site](https://qqiumax.github.io/)
 ## OK
 ### Other Codes
-**BOLD**
-*ITALICS*
+###### **BOLD**
+###### *ITALICS*
 # Hashtags
 ## Hashtags
 ### Hashtags
