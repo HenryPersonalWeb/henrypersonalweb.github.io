@@ -1,5 +1,5 @@
 # Hi, this is Henry's Website!
-### Hi, I'm Henry, and you can see my unfinished Minecraft Blog [here](https://henrypersonalweb.github.io/blog/), and my donations page [here](https://henrypersonalweb.github.io/donation)!
+### Hi, I'm Henry, and you can see my unfinished Minecraft Blog [here](https://henrypersonalweb.github.io/blog/), and my donations page [here](https://henrypersonalweb.github.io/donations)!
 ### You can also see my homepage [here](https://henrypersonalweb.github.io/home/).
 ![Celebrating Piglins](https://henrypersonalweb.github.io/piglin.gif)
 

@@ -3,5 +3,5 @@
 ## You can check out the links below
 
 ## [My blog](https://henrypersonalweb.github.io/blog)
-## [My donation page](https://henrypersonalweb.github.io/donation)
-![Piglin](https://henrypersonalweb.github.io/piglin/)
+## [My donation page](https://henrypersonalweb.github.io/donations)
+![Piglin](https://henrypersonalweb.github.io/piglin.gif)
