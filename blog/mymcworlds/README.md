@@ -4,7 +4,7 @@
 ### Below are some snapshots of the world
 ![GuardianFarm](https://henrypersonalweb.github.io/guardianfarm.png)
 ### Me trying to get my armor back after I died
-![Nether](https://henrypersonalweb.github.io/guardianfarm.png)
+![Nether](https://henrypersonalweb.github.io/nether.png)
 ### A snapshot of me in the nether
 ![Seaturtles](https://henrypersonalweb.github.io/seaturtles.png)
 ### My seaturtle breeding center
