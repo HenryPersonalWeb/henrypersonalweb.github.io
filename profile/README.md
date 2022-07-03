@@ -3,4 +3,5 @@
 ## I'm currently a student!
 ## I'm looking for a fun Minecraft Server without needing a Mojang account!
 ## You can reach me via email henrygithub@163.mail.com
-## Fun fact: Max actually helped me a lot with this website. [Go and check out his website with specific instructions on how to build websites!](https://qqiumax.github.io/)
+## Fun fact: Max actually helped me a lot with this website. Go and check out [his website](https://qqiumax.github.io/) with specific instructions on how to build websites!
+## [Back to home page](https://henrypersonalweb.github.io/home/)

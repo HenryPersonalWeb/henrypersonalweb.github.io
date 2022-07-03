@@ -4,7 +4,7 @@
 
 ## [Blog](https://henrypersonalweb.github.io/blog)
 ## [Donations](https://henrypersonalweb.github.io/donations)
-## [Profiles](https://henrypersonalweb.github.io/profile)   (Not finished)
-### [Back to front page](https://henrypersonalweb.github.io/)
+## [Profiles](https://henrypersonalweb.github.io/profile) 
+## [Back to front page](https://henrypersonalweb.github.io/)
 ![Piglin](https://henrypersonalweb.github.io/piglin.gif)
 
