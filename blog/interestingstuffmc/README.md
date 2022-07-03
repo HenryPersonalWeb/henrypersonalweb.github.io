@@ -5,7 +5,7 @@
 ### Question 1
 ### In Minecraft, are there mobs that can reproduce asexually?
 #### A. No
-#### B. Yes
+#### B. Yes, and _______ can reproduce asexually
 #### C. I don't know
 #### D. This is too hard
 ### Question 2
@@ -20,4 +20,7 @@
 #### B. Golden Nugget
 #### C. Enchanted Golden Apple
 #### D. Clock
+### Question 4
+#### What will cause piglins to perform the dance shown below?
 ![Piglin](https://henrypersonalweb.github.io/piglin.gif)
+## You can submit the answers to my email: henrygithub@163.com
