@@ -9,7 +9,7 @@
 ## Part 2
 ## [My Minecraft Worlds](https://henrypersonalweb.github.io/blog/mymcworlds/)
 ## [back to home page](https://henrypersonalweb.github.io/home)
-![Piglin](https://henrypersonalweb.github.io/piglin.gif)
+![Piglin](https://henrypersonalweb.github.io/pictures/piglin.gif)
 
 
 
