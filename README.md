@@ -5,4 +5,4 @@
 ## [companion site](https://qqiumax.github.io/)
 ## OK
 2022.6.19
-![Celebrating Piglins](https://henrypersonalweb.github.io/piglin.gif)
+![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif)
