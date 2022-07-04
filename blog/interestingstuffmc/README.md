@@ -5,7 +5,7 @@
 ### Question 1
 ### In Minecraft, are there mobs that can reproduce asexually?
 #### A. No
-#### B. Yes, and _______ can reproduce asexually
+#### B. Yes
 #### C. I don't know
 #### D. This is too hard
 ### Question 2
@@ -26,4 +26,5 @@
 ## You can submit the answers to my email: henrygithub@163.com
 ## [Back to home page](https://henrypersonalweb.github.io/home)
 
-##![villagers](https://henrypersonalweb.github.io/pictures/villagers.gif)
+## ![villagers](https://henrypersonalweb.github.io/pictures/villagers.gif)
+## ![axolotls](https://henrypersonalweb.github.io/pictures/cyan axolotl.gif)
