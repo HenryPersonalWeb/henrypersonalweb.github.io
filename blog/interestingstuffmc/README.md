@@ -2,7 +2,7 @@
 [More information here](https://minecraft.fandom.com/wiki/Minecraft)
 
 ## Quiz!
-### Question 1
+### [Question 1](https://henrypersonalweb.github.io/blog/interestingstuffmc/question 1)
 ### In Minecraft, are there mobs that can reproduce asexually?
 #### A. No
 #### B. Yes
