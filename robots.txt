@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: site_URL_you_wanna_block
+sitemap: https://henrypersonalweb.github.io/sitemap.xml
