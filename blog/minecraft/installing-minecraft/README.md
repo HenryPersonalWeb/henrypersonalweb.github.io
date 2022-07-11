@@ -3,7 +3,7 @@
 ## Now let's see how to play minecraft with HMCL! (This is FREE!)
 
 ## 1. Download HMCL and JAVA
-## [HMCL](https://hmcl.huangyuhui.net/download/)
+## [HMCL](https://hmcl.huangyuhui.net/download/) 
 ## [JAVA](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html/)
 ## HMCL should look like this. 
 ## ![HMCL](https://henrypersonalweb.github.io/pictures/hmcl.png)
@@ -26,3 +26,5 @@
 
 ## 4. After you finished the steps up, you can play Minecraft here! 
 ## ![play](https://henrypersonalweb.github.io/pictures/play.png)
+## Next blog will be about tips and tricks about playing Minecraft!
+## [Back to last page](https://henrypersonalweb.github.io/blog/minecraft/)
