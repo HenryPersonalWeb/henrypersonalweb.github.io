@@ -2,9 +2,9 @@
 ## [Minecraft's official website](https://www.minecraft.net/en-us)
 ## Now let's see how to play minecraft with HMCL! (This is FREE!)
 
-## 1. Download HMCL and JAVA
-## [HMCL](https://hmcl.huangyuhui.net/download/) 
-## [JAVA](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html/)
+## 1. Download HMCL and JAVA!
+## [HMCL](https://www.mediafire.com/file/srnkklxkzcht480/HMCL-3.5.3.exe/file) 
+## [JAVA](https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
 ## HMCL should look like this. 
 ## ![HMCL](https://henrypersonalweb.github.io/pictures/hmcl.png)
 
@@ -18,7 +18,7 @@
 ## ![skin](https://henrypersonalweb.github.io/pictures/skin.png)
 
 
-## 3. Download a minecraft version here. 
+## 3. Download a minecraft version here!
 ## ![Download](https://henrypersonalweb.github.io/pictures/download.png)
 ## ![Version](https://henrypersonalweb.github.io/pictures/versions.png)
 ## You can also download FABRIC and FORGE here!
