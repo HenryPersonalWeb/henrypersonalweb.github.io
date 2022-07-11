@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+=======
 <?xml version="1.0"encoding="UTF-8"?>
+>>>>>>> c05e6091b339b9c5c90fb5245a696ad5eb7d3639
 <urlset>
     <url>
         <loc>https://henrypersonalweb.github.io/</loc>
@@ -15,6 +19,9 @@
     <url>
         <loc>https://henrypersonalweb.github.io/donations/</loc>
         <lastmod>2022-07-11</lastmod>
+<<<<<<< HEAD
+
+=======
     </url>
     <url>
         <loc>https://henrypersonalweb.github.io/codes/</loc>
@@ -35,6 +42,7 @@
     <url>
         <loc>https://henrypersonalweb.github.io/blog/mymcworlds/survival/</loc>
         <lastmod>2022-07-11</lastmod>
+>>>>>>> c05e6091b339b9c5c90fb5245a696ad5eb7d3639
     </url>
     <url>
         <loc>https://henrypersonalweb.github.io/blog/interestingstuffmc/</loc>
