@@ -1,0 +1,35 @@
+.heart-eye {
+	position:absolute;
+	animation:pulse 1s ease-out infinite;
+}
+.heart {
+	display:block;
+	width:16px;
+	height:16px;
+	background:#e25d5d;
+	transform:rotate(-45deg);
+}
+.heart:before,.heart:after {
+	content:"";
+	position:absolute;
+	width:16px;
+	height:16px;
+	border-radius:50%;
+	background-color:#e25d5d;
+}
+.heart:before {
+	top:-8px;
+	left:0;
+}
+.heart:after {
+	left:8px;
+	top:0;
+}
+@keyframes pulse {
+	30% {
+	transform:scale(1.2,1.2);
+}
+70% {
+	transform:scale(1,1);
+}
+}

@@ -7,7 +7,6 @@
 ![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![PiglinBrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
 ### Note: The piglin gif and the piglin brute gif are separately from [here](https://minecraft.fandom.com/wiki/Piglin) and [here](https://minecraft.fandom.com/wiki/Piglin_Brute)!
 ## [companion site](https://qqiumax.github.io/)
-## [another companion's site](https://michaelliu1210.github.io)
 ## OK
 ![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![PiglinBrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
 
