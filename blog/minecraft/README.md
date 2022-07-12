@@ -1,5 +1,5 @@
 Minecraft: Install&Play
-## **Series 1: Minecraft Basics **
+## ** Series 1: Minecraft Basics **
 ## [Part 1: Installing minecraft](https://henrypersonalweb.github.io/blog/minecraft/installing-minecraft/)
 ## [Part 2: Minecraft Gamemodes](https://henrypersonalweb.github.io/blog/minecraft/gamemodes/)
 
