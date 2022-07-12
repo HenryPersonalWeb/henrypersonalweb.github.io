@@ -15,6 +15,7 @@
 ## If you have an account, you can login your Mojang or Microsoft account. If you doesn't have an minecraft account, create an offline account!
 
 ## You can also upload your custom skin here!
+## I would recommand [this website](https://namemc.com/)!
 ## ![skin](https://henrypersonalweb.github.io/pictures/skin.png)
 
 
@@ -26,6 +27,6 @@
 
 ## 4. After you finished the steps up, you can play Minecraft here! 
 ## ![play](https://henrypersonalweb.github.io/pictures/play.png)
-## Next blog will be about tips and tricks about playing Minecraft!
+## Next blog will be the gamemodes of Minecraft!
 ## [Back to "minecraft blogs"](https://henrypersonalweb.github.io/blog/minecraft/)
 ## [Back to home page](https://henrypersonalweb.github.io/home/)
