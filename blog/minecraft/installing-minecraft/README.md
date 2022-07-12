@@ -27,4 +27,5 @@
 ## 4. After you finished the steps up, you can play Minecraft here! 
 ## ![play](https://henrypersonalweb.github.io/pictures/play.png)
 ## Next blog will be about tips and tricks about playing Minecraft!
-## [Back to last page](https://henrypersonalweb.github.io/blog/minecraft/)
+## [Back to "minecraft blogs"]https://henrypersonalweb.github.io/blog/minecraft/)
+## [Back to home page](https://henrypersonalweb.github.io/home/)
