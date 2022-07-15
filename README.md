@@ -3,7 +3,7 @@
 
 ### You can also subscribe to me [here](https://henrypersonalweb.github.io/subscribe/)!
 
-### <s>Note: The piglin gif and the piglin brute gif are separately from [here](https://minecraft.fandom.com/wiki/Piglin) and [here](https://minecraft.fandom.com/wiki/Piglin_Brute)!</s>
+### Note: The piglin gif and the piglin brute gif are separately from [here](https://minecraft.fandom.com/wiki/Piglin) and [here](https://minecraft.fandom.com/wiki/Piglin_Brute)!
 
 ## [companion site](https://qqiumax.github.io/)
 ## OK
