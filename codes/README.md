@@ -4,4 +4,4 @@
 ## <s>Strikethrough</s>
 ## <code><s>strikethrough stuff</s></code>
 ## [Back to home page](https:henrypersonalweb.github.io/home/)
-## ![Piglin](https://henrypersonalweb.github.io/pictures/piglin.gif/)
+## ![Piglin](https://henrypersonalweb.github.io/pictures/piglin.gif)
