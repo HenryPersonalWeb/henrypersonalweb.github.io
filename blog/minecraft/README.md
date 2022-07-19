@@ -4,7 +4,8 @@
 ## [Part 2: Minecraft Game Settings](https://henrypersonalweb.github.io/blog/minecraft/world-settings/)
 ## [Finale: Basic Information about Minecraft Worlds](https://henrypersonalweb.github.io/blog/minecraft/basic-information/)
 ## **Series 2: Beginning a minecraft world**
-## [Part 1: Basic Concepts]
+
+## [Part 1: How to survive your first day](https://henrypersonalweb.github.io/blog/minecraft/first-day/)
 
 
 ![Piglin](https://henrypersonalweb.github.io/pictures/piglin.gif)
