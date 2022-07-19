@@ -10,7 +10,7 @@
 ## Acacia Trees
 ## ![Acacia](https://henrypersonalweb.github.io/blog/minecraft/first-day/acacia_tree.webp)
 ## Spruce Trees
-## ![Spruce](https://henrypersonalweb.github.io/blog/minecraft/first-day/Spruce_Tree.webp)
+## ![Spruce](https://henrypersonalweb.github.io/blog/minecraft/first-day/spruce_tree.webp)
 ## Jungle Trees
 ## ![JUNGLE](https://henrypersonalweb.github.io/blog/minecraft/first-day/jungle_tree.webp)
 ## Dark Oak Trees
