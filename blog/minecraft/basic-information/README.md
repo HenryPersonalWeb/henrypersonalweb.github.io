@@ -10,6 +10,10 @@
 ![p](https://henrypersonalweb.github.io/blog/minecraft/basic-information/chunk.gif)
 ##### This is part of a chunk
 ## 3. Hitbox
-## You can open hitbox using F3+B
+## You can open hitbox using F3+B, it is the place where you can hit a mob. (This would be very useful to speedrunning and beating the ender dragon)
 ## ...
+## [back to blog](https://henrypersonalweb.github.io/blog/minecraft/)
+## [back to homepage](https://henrypersonalweb.github.io/home/)
+## ![h](https://henrypersonalweb.github.io/pictures/piglin.gif)    ![piglinbrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
+ 
 
