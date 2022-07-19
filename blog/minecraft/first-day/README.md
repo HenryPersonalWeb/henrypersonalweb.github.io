@@ -26,7 +26,7 @@
 ### As a little trick, you can shift+click the planks to craft the maximum amount of planks!
 ## You can then make a crafting table using the formula shown!
 ## Step 2: Craft a wooden pickaxe!
-![wooden_pickaxe](https://henrypersonalweb.github.io/minecraft/first-day/wooden_pickaxe.png)
+![wooden_pickaxe](https://henrypersonalweb.github.io/blog/minecraft/first-day/wooden_pickaxe.png)
 ## Step 3: Mine some stone (20 is enough)!
 ### You can find stone in exposed caves, or you can dig straight down (beware the caves)  to mine stone!
 ### ![Stone](https://henrypersonalweb.github.io/blog/minecraft/first-day/stone.webp)
