@@ -19,4 +19,22 @@
 ## ![Azalea](https://henrypersonalweb.github.io/blog/minecraft/first-day/azalea_tree.webp)
 ## Mangrove Trees(1.19+)
 ## ![Mangrove](https://henrypersonalweb.github.io/blog/minecraft/first-day/mangrove_tree.webp)
-## 
+## Step1: Craft the logs into planks!
+### Press "E" to open your inventory (The button could be changed).
+### Put your logs into the right upper slots shown. 
+### Then click the planks
+### As a little trick, you can shift+click the planks to craft the maximum amount of planks!
+## You can then make a crafting table using the formula shown!
+## Step 2: Craft a wooden pickaxe!
+![wooden_pickaxe](https://henrypersonalweb.github.io/minecraft/first-day/wooden_pickaxe.png)
+## Step 3: Mine some stone (20 is enough)!
+### You can find stone in exposed caves, or you can dig straight down (beware the caves)  to mine stone!
+### ![Stone](https://henrypersonalweb.github.io/blog/minecraft/first-day/stone.webp)
+##### Stones should look like this
+### You will get cobblestones as a result (assuming you don't have a silk touch pickaxe)!
+### ![Stone](https://henrypersonalweb.github.io/blog/minecraft/first-day/cobblestone.webp)
+##### Cobblestones should look like this
+## Also be careful, don't mine too much andesites, which looks similar to stones!
+### ![Andesite](https://henrypersonalweb.github.io/blog/minecraft/first-day/andesite.webp)
+#####
+
