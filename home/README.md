@@ -8,6 +8,6 @@
 ## [Subscribe](https://henrypersonalweb.github.io/subscribe/)
 ## [Do Not Click This](https://henrypersonalweb.github.io/codes/)
 ## [Back to front page](https://henrypersonalweb.github.io/)
-![Piglin](https://henrypersonalweb.github.io/pictures/piglin.gif)
+![Piglin](https://henrypersonalweb.github.io/pictures/piglin.gif) ![PiglinBrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
 
 
