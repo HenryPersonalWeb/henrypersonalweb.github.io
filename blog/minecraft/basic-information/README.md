@@ -7,5 +7,9 @@
 ## 2. Chunk
 ## A chunk is a 16*384*16 area made up of blocks. 
 ## You can see the borders of each other using F3+G, and knowing the borders of chunks can be useful in many cases, such as building slime farms.
-## 3.
+![p](https://henrypersonalweb.github.io/blog/minecraft/basic-information/chunk.gif)
+##### This is part of a chunk
+## 3. Hitbox
+## You can open hitbox using F3+B
+## ...
 
