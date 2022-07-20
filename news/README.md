@@ -1,0 +1,1 @@
+## You can see the latest news of my hardcore world here. 
