@@ -1,6 +1,6 @@
 ## How to survive your first day of Minecraft!
 ## To begin your journey of minecraft, look at the following chart!
-## ![chart](https://henrypersonalweb.github.io/blog/minecraft/first-day/keyboard.png)
+## ![chart](https://henrypersonalweb.github.io/minecraft/first-day/keyboard.png)
 ## Warning: The steps below are not for creative mode. 
 ## In most cases, the first things you have to do is to chop wood (from trees).
 ## The types of trees include but not limited to:
@@ -40,43 +40,45 @@
 ### ![Andesite](https://henrypersonalweb.github.io/minecraft/first-day/andesite.webp)
 ### After you mined the stones, craft the items below!
 #### 1. Stone pickaxe
-![y](https://henrypersonalweb.github.io/minecraft/stone-pickaxe.png)
+![y](https://henrypersonalweb.github.io/minecraft/first-day/stone-pickaxe.png)
 #### 2. Stone axe
-![z](https://henrypersonalweb.github.io/minecraft/stone-axe.png)
+![z](https://henrypersonalweb.github.io/minecraft/first-day/stone-axe.png)
 #### 3. Furnace (This can be crafted using cobblestone, blackstone, cobbled deepslate interchangeably)
-![a](https://henrypersonalweb.github.io/minecraft/furnace.png)
+![a](https://henrypersonalweb.github.io/minecraft/first-day/furnace.png)
 #### 4. Stone sword 
-![b](https://henrypersonalweb.github.io/minecraft/stone-sword.png)
+![b](https://henrypersonalweb.github.io/minecraft/first-day/stone-sword.png)
 #### 5. Stone hoe (Not recommanded)
-![c](https://henrypersonalweb.github.io/minecraft/stone-hoe.png)
+![c](https://henrypersonalweb.github.io/minecraft/first-day/stone-hoe.png)
 #### 6. Stone shovel (Also not recommanded)
-![d](https://henrypersonalweb.github.io/minecraft/stone-shovel.png)
+![d](https://henrypersonalweb.github.io/minecraft/first-day/stone-shovel.png)
 ## If you don't want to mine iron for the entire day, try to kill 3 sheep of the same color and make a bed!
-![a](https://henrypersonalweb.github.io/minecraft/sheep.png)
+![a](https://henrypersonalweb.github.io/minecraft/first-day/sheep.png)
 ##### This is what a sheep looks like, except that the woll color may be different. Also, be sure to not kill a baby sheep. 
-![a](https://henrypersonalweb.github.io/minecraft/baby-sheep.png)
+![a](https://henrypersonalweb.github.io/minecraft/first-day/baby-sheep.png)
 ### Here is the crafting recipe for a bed. 
-![a](https://henrypersonalweb.github.io/minecraft/bed.png)
+![a](https://henrypersonalweb.github.io/minecraft/first-day/bed.png)
 ### Note: You can*** right click *** on a bed to sleep on it during the night. 
 ### Optional: Mine iron
 If you want to have armor, then you may want to start mining iron ores using your stone pickaxe.
-### ![iron](https://henrypersonalweb.github.io/minecraft/iron- ore.png)
+### ![iron](https://henrypersonalweb.github.io/minecraft/first-day/iron- ore.png)
 ##### The picture above shows an iron ore and a deepslate iron ore, and mining them will drop a raw iron.
-![raw iron](https://henrypersonalweb.github.io/minecraft/raw-iron.png)
+![raw iron](https://henrypersonalweb.github.io/minecraft/first-day/raw-iron.png)
 ##### The picture above shows a raw iron.
 ### The next step is to smelt the raw iron in a furnace
-![furnace](https://henrypersonalweb.github.io/minecraft/furnace-stuff.png)
+![furnace](https://henrypersonalweb.github.io/minecraft/first-day/furnace-stuff.png)
 ### Next, you can craft the iron ingots into the things you want. Like iron armor.
-![a](https://henrypersonalweb.github.io/minecraft/iron-ingot.png)
+![a](https://henrypersonalweb.github.io/minecraft/first-day/iron-ingot.png)
 ##### This is an iron ingot
-![a](https://henrypersonalweb.github.io/minecraft/iron-helmet.png)
+![a](https://henrypersonalweb.github.io/minecraft/first-day/iron-helmet.png)
 ##### The recipe for iron helmets
-![a](https://henrypersonalweb.github.io/minecraft/iron-chestplate.png)
+![a](https://henrypersonalweb.github.io/minecraft/first-day/iron-chestplate.png)
 ##### The recipe for iron chestplates
-![a](https://henrypersonalweb.github.io/minecraft/iron-leggings.png)
+![a](https://henrypersonalweb.github.io/minecraft/first-day/iron-leggings.png)
 ##### The recipe for iron leggings
-![a](https://henrypersonalweb.github.io/minecraft/iron-boots.png)
+![a](https://henrypersonalweb.github.io/minecraft/first-day/iron-boots.png)
 ##### The recipe for iron boots
+### Optional: Make a shelter
+#### You can also make a little house for yourself!
 ## [back to minecraft](https://henrypersonalweb.github.io/minecraft/)
 ## [back to home page](https://henrypersonalweb.github.io/home/)
 
