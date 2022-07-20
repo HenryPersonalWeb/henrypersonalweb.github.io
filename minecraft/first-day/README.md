@@ -53,15 +53,15 @@
 ![d](https://henrypersonalweb.github.io/minecraft/first-day/stone-shovel.png)
 ## If you don't want to mine iron for the entire day, try to kill 3 sheep of the same color and make a bed!
 ![a](https://henrypersonalweb.github.io/minecraft/first-day/sheep.png)
-##### This is what a sheep looks like, except that the woll color may be different. Also, be sure to not kill a baby sheep. 
+##### This is what a sheep looks like, except that the wool color may be different. Also, be sure to not kill a baby sheep. 
 ![a](https://henrypersonalweb.github.io/minecraft/first-day/baby-sheep.png)
 ### Here is the crafting recipe for a bed. 
 ![a](https://henrypersonalweb.github.io/minecraft/first-day/bed.png)
 ### Note: You can*** right click *** on a bed to sleep on it during the night. 
 ### Optional: Mine iron
 If you want to have armor, then you may want to start mining iron ores using your stone pickaxe.
-### ![iron](https://henrypersonalweb.github.io/minecraft/first-day/iron- ore.png)
-##### The picture above shows an iron ore and a deepslate iron ore, and mining them will drop a raw iron.
+### ![iron](https://henrypersonalweb.github.io/minecraft/first-day/iron-ore.png)
+##### The picture above shows an iron ore and a deepslate iron ore, and mining a ore will drop a raw iron.
 ![raw iron](https://henrypersonalweb.github.io/minecraft/first-day/raw-iron.png)
 ##### The picture above shows a raw iron.
 ### The next step is to smelt the raw iron in a furnace
