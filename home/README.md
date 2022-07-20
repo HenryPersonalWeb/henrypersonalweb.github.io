@@ -1,4 +1,4 @@
-﻿·# Homepage
+﻿# Homepage
 ## Hi, this is Henry's website!
 ## You can check out the links below
 
