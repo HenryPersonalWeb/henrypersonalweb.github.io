@@ -8,6 +8,7 @@
 ## [Subscribe](https://henrypersonalweb.github.io/subscribe/)
 ## [Do Not Click This](https://henrypersonalweb.github.io/codes/)
 ## [My Minecraft Tutorials](https://henrypersonalweb.github.io/minecraft/)
+## [Comments](https://henrypersonalweb.github.io/comments/)
 ## [Back to front page](https://henrypersonalweb.github.io/)
 ![Piglin](https://henrypersonalweb.github.io/pictures/piglin.gif) ![PiglinBrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
 
