@@ -1,13 +1,13 @@
 # Minecraft Game Settings!
 ## At the end of [last class](https://henrypersonalweb.github/minecraft/installing-minecraft/), you should be able to install HMCL and Minecraft. Today we are going to learn the gamemodes of Minecraft!
 ### Minecraft should look like this. 
-## ![Minecraft](https://henrypersonalweb.github.io/minecraft/gamemodes/minecraft.png)
+## ![Minecraft](https://henrypersonalweb.github.io/minecraft/world-settings/minecraft.png)
 ## 1. If you want to create your world, click "Singleplayer", it should look like this
-## ![Singerplayer](https://henrypersonalweb.github.io/minecraft/gamemodes/singleplayer.png)
+## ![Singerplayer](https://henrypersonalweb.github.io/minecraft/world-settings/singleplayer.png)
 ## 2. Before creating your world, carefully check out the settings!
 ### This includes Difficulty, cheats, game rules, more world options (seed, etc. )
 ## 3. There are 3 different game modes that can be changes by clicking this. 
-## ![Gamemode](https://henrypersonalweb.github.io/minecraft/settings/gamemode.png)
+## ![Gamemode](https://henrypersonalweb.github.io/minecraft/world-settings/gamemode.png)
 ### The 3 settings are Creative, Survival, and Hardcore.
 ### Also check out advanced world settings in "More Game Options"!
 ## 4. After you finished everything, you can create a new world!
