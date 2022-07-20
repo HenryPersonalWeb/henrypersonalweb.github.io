@@ -8,4 +8,3 @@
 
 ![Piglin](https://henrypersonalweb.github.io/pictures/piglin.gif)
 ## [Back to home page](https://henrypersonalweb.github.io/home/)
-## [Back to my blog](https://henrypersonalweb.github.io/blog/)

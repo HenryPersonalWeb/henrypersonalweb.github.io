@@ -28,5 +28,5 @@
 ## 4. After you finished the steps up, you can play Minecraft here! 
 ## ![play](https://henrypersonalweb.github.io/pictures/play.png)
 ## Next blog will be the gamemodes of Minecraft!
-## [Back to "minecraft blogs"](https://henrypersonalweb.github.io/blog/minecraft/)
+## [Back to "minecraft blogs"](https://henrypersonalweb.github.io/minecraft/)
 ## [Back to home page](https://henrypersonalweb.github.io/home/)

@@ -60,5 +60,7 @@ If you want to have armor, then you may want to start mining iron ores using you
 ### The next step is to smelt the raw iron in a furnace
 ![furnace](https://henrypersonalweb.github.io/blog/minecraft/furnace-stuff.png)
 ### Next, you can craft the iron ingots into the things you want. Like iron armor.
+## [back to minecraft](https://henrypersonalweb.github.io/minecraft/)
+## [back to home page](https://henrypersonalweb.github.io/home/)
 
 

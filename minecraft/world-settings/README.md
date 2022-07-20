@@ -11,6 +11,6 @@
 ### The 3 settings are Creative, Survival, and Hardcore.
 ### Also check out advanced world settings in "More Game Options"!
 ## 4. After you finished everything, you can create a new world!
-## [back to "minecraft"](https://henrypersonalweb.github.io/blog/minecraft/)
+## [back to minecraft](https://henrypersonalweb.github.io/minecraft/)
 ## [back to home page](https://henrypersonalweb.github.io/home/)
 ![Piglin](https://henrypersonalweb.github.io/pictures/piglin.gif)
