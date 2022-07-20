@@ -51,6 +51,13 @@
 ![c](https://henrypersonalweb.github.io/minecraft/stone-hoe.png)
 #### 6. Stone shovel (Also not recommanded)
 ![d](https://henrypersonalweb.github.io/minecraft/stone-shovel.png)
+## If you don't want to mine iron for the entire day, try to kill 3 sheep of the same color and make a bed!
+![a](https://henrypersonalweb.github.io/minecraft/sheep.png)
+##### This is what a sheep looks like, except that the woll color may be different. Also, be sure to not kill a baby sheep. 
+![a](https://henrypersonalweb.github.io/minecraft/baby-sheep.png)
+### Here is the crafting recipe for a bed. 
+![a](https://henrypersonalweb.github.io/minecraft/bed.png)
+### Note: You can*** right click *** on a bed to sleep on it during the night. 
 ### Optional: Mine iron
 If you want to have armor, then you may want to start mining iron ores using your stone pickaxe.
 ### ![iron](https://henrypersonalweb.github.io/minecraft/iron- ore.png)
@@ -60,6 +67,16 @@ If you want to have armor, then you may want to start mining iron ores using you
 ### The next step is to smelt the raw iron in a furnace
 ![furnace](https://henrypersonalweb.github.io/minecraft/furnace-stuff.png)
 ### Next, you can craft the iron ingots into the things you want. Like iron armor.
+![a](https://henrypersonalweb.github.io/minecraft/iron-ingot.png)
+##### This is an iron ingot
+![a](https://henrypersonalweb.github.io/minecraft/iron-helmet.png)
+##### The recipe for iron helmets
+![a](https://henrypersonalweb.github.io/minecraft/iron-chestplate.png)
+##### The recipe for iron chestplates
+![a](https://henrypersonalweb.github.io/minecraft/iron-leggings.png)
+##### The recipe for iron leggings
+![a](https://henrypersonalweb.github.io/minecraft/iron-boots.png)
+##### The recipe for iron boots
 ## [back to minecraft](https://henrypersonalweb.github.io/minecraft/)
 ## [back to home page](https://henrypersonalweb.github.io/home/)
 
