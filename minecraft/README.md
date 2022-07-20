@@ -1,6 +1,6 @@
 # Minecraft: Install&Play
 ## **Series 1: Minecraft Basics**
-## [Part 1: Installing minecraft](https://henrypersonalweb.github.io/minecraft/installing-minecraft/)
+## [Part 1: Installing minecraft with HMCL](https://henrypersonalweb.github.io/minecraft/installing-minecraft/)
 ## [Finale: Minecraft Game Settings](https://henrypersonalweb.github.io/minecraft/world-settings/)
 ## **Series 2: Beginning a minecraft world**
 ## [Part 1: How to survive your first day](https://henrypersonalweb.github.io/minecraft/first-day/)
