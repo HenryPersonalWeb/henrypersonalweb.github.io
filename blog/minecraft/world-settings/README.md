@@ -9,6 +9,7 @@
 ## 3. There are 3 different game modes that can be changes by clicking this. 
 ## ![Gamemode](https://henrypersonalweb.github.io/blog/minecraft/settings/gamemode.png)
 ### The 3 settings are Creative, Survival, and Hardcore.
+### Also check out advanced world settings in "More Game Options"!
 ## 4. After you finished everything, you can create a new world!
 ## [back to "minecraft"](https://henrypersonalweb.github.io/blog/minecraft/)
 ## [back to home page](https://henrypersonalweb.github.io/home/)

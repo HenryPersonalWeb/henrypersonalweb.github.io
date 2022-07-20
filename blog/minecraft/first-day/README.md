@@ -1,6 +1,7 @@
 ## How to survive your first day of Minecraft!
-## [Very Basic Stuff and Some Other Things](https://minecraft.fandom.com/wiki/Tutorials/Beginner%27s_guide)
-## First, check your game mode, if you are in creative mode, you don't have to follow the procedures below. 
+## To begin your journey of minecraft, look at the following chart!
+## ![chart](https://henrypersonalweb.github.io/blog/minecraft/first-day/keyboard.png)
+## Warning: The steps below are not for creative mode. 
 ## In most cases, the first things you have to do is to chop wood (from trees).
 ## The types of trees include but not limited to:
 ## Oak Trees
@@ -35,7 +36,28 @@
 ### You will get cobblestones as a result (assuming you don't have a silk touch pickaxe)!
 ### ![Stone](https://henrypersonalweb.github.io/blog/minecraft/first-day/cobblestone.webp)
 ##### Cobblestones should look like this
-## Also be careful, don't mine too much andesites, which looks similar to stones!
+## Also be careful, don't mine andesites, which look similar to stones!
 ### ![Andesite](https://henrypersonalweb.github.io/blog/minecraft/first-day/andesite.webp)
-#####
+### After you mined the stones, craft the items below!
+#### 1. Stone pickaxe
+![y](https://henrypersonalweb.github.io/blog/minecraft/stone-pickaxe.png)
+#### 2. Stone axe
+![z](https://henrypersonalweb.github.io/blog/minecraft/stone-axe.png)
+#### 3. Furnace (This can be crafted using cobblestone, blackstone, cobbled deepslate interchangeably)
+![a](https://henrypersonalweb.github.io/blog/minecraft/furnace.png)
+#### 4. Stone sword 
+![b](https://henrypersonalweb.github.io/blog/minecraft/stone-sword.png)
+#### 5. Stone hoe (Not recommanded)
+![c](https://henrypersonalweb.github.io/blog/minecraft/stone-hoe.png)
+#### 6. Stone shovel (Also not recommanded)
+![d](https://henrypersonalweb.github.io/blog/minecraft/stone-shovel.png)
+### Optional: Mine iron
+If you want to have armor, then you may want to start mining iron ores using your stone pickaxe.
+### ![iron](https://henrypersonalweb.github.io/blog/minecraft/iron- ore.png)
+##### The picture above shows an iron ore and a deepslate iron ore, and mining them will drop a raw iron.
+![raw iron](https://henrypersonalweb.github.io/blog/minecraft/raw-iron.png)
+##### The picture above shows a raw iron.
+### The next step is to smelt the raw iron in a furnace
+![furnace](https://henrypersonalweb.github.io/blog/minecraft/furnace-stuff.png)
+
 

@@ -1,10 +1,8 @@
 # Minecraft: Install&Play
 ## **Series 1: Minecraft Basics**
 ## [Part 1: Installing minecraft](https://henrypersonalweb.github.io/blog/minecraft/installing-minecraft/)
-## [Part 2: Minecraft Game Settings](https://henrypersonalweb.github.io/blog/minecraft/world-settings/)
-## [Finale: Basic Information about Minecraft Worlds](https://henrypersonalweb.github.io/blog/minecraft/basic-information/)
+## [Finale: Minecraft Game Settings](https://henrypersonalweb.github.io/blog/minecraft/world-settings/)
 ## **Series 2: Beginning a minecraft world**
-
 ## [Part 1: How to survive your first day](https://henrypersonalweb.github.io/blog/minecraft/first-day/)
 
 
