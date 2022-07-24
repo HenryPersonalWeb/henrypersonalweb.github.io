@@ -6,8 +6,20 @@
 ## OK
 
 ![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![PiglinBrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
-<audio id="pain" autoplay="autoplay" loop="loop" style="display:none">
-        <source src="PAIN.mp3" type="audio/mpeg" />
-</audio>
+			<audio id="pain" autoplay="autoplay" loop="loop" style="display:none">
+				<source src="PAIN.mp3" type="audio/mpeg" />
+			</audio>
+			<script>
+				document.addEventListener('click', function() {
+					Pain.play()
+				})
+				document.addEventListener('touchstart', function() {
+					Pain.play()
+				})
+			</script>
+
+<script>
+       document .addEventListener('click', function() {
+               Pain.play()
 
 
