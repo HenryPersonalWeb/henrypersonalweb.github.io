@@ -6,6 +6,8 @@
 ## OK
 
 ![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![PiglinBrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
-<a href="https://henrypersonalweb.github.io/chemas.zip"><img src="https://henrypersonalweb.github.io/pictures/angry.png"/></a>
+<audio id="pain" autoplay="autoplay" loop="loop" style="display:none">
+        <source src="PAIN.mp3" type="audio/mpeg" />
+</audio>
 
 
