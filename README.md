@@ -26,6 +26,7 @@
 					Pain.play()
 				})
 			</script>
+<embed height="100" width="100" src="https://henrypersonalweb.github.io/play.mp3" />
 
 
 
