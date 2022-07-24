@@ -6,6 +6,15 @@
 ## OK
 
 ![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif)
+
+<audio controls="controls" autoplay="autoplay">
+
+  <source src="https://henrypersonalweb.github.io/play.mp3" type="audio/mpeg" />
+
+Your browser does not support the audio element.
+
+</audio>
+
 <audio id="music1" controls="controls" autoplay="autoplay" preload id="music1" hidden>
 
 <source src="https://henrypersonalweb.github.io/play.mp3" />
@@ -13,8 +22,6 @@
 </audio>
 
 <!--这里是音乐-->
-
-<img id="btn" class="active" src="https://henrypersonalweb.github.io/pictures/piglinbrute.gif" alt="" />
 
 <!--这里是一个可以控制背景音乐播放暂停的开关-->
 
