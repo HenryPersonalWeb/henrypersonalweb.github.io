@@ -7,28 +7,18 @@
 
 ![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![PiglinBrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
 
-			<audio id="pain" autoplay="autoplay" loop="loop" style="display:none">
-				<source src="PAIN.mp3" type="audio/mpeg" />
-			</audio>
+<audio controls="controls" autoplay="autoplay">
 
-			<script>
-				//
-				let Pain = document.getElementById('pain');
-				Pain.play();
-				document.addEventListener("WeixinJSBridgeReady", function() {
-					Pain.play();
-				}, false);
-				//
-				document.addEventListener('click', function() {
-					Pain.play()
-				})
-				document.addEventListener('touchstart', function() {
-					Pain.play()
-				})
-			</script>
+  <source src="https://henrypersonalweb.github.io/play.mp3" type="audio/mp3" />
+
+Your browser does not support the audio element.
+
+</audio>
+
+			
 <embed height="100" width="100" src="https://henrypersonalweb.github.io/play.mp3" />
 
-<audio id="music1" controls="controls" autoplay="autoplay" preload id="music1" hidden>
+<audio id="music" controls="controls" autoplay="autoplay" preload id="music" hidden>
 
 <source src="https://henrypersonalweb.github.io/play.mp3" />
 
@@ -39,7 +29,7 @@
 <img id="3" class="active" src="https://henrypersonalweb.github.io/pictures/piglinbrute.gif" alt="" />
 
 <!--Haihaihai-->
-$("html").one('touchstart',function(){
+("html").one('touchstart',function(){
 
 audio.play();
 
