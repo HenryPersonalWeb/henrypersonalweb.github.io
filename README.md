@@ -9,10 +9,6 @@
 
   <source src="https://henrypersonalweb.github.io/play.mp3" type="audio/mpeg" />
 
-Your browser does not support the audio element.
-
-</audio>
-
 <audio id="music1" controls="controls" autoplay="autoplay" preload id="music1" hidden>
 
 <source src="https://henrypersonalweb.github.io/play.mp3" />
