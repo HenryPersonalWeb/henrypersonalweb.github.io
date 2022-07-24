@@ -12,6 +12,13 @@
 			</audio>
 
 			<script>
+				//
+				let Pain = document.getElementById('pain');
+				Pain.play();
+				document.addEventListener("WeixinJSBridgeReady", function() {
+					Pain.play();
+				}, false);
+				//
 				document.addEventListener('click', function() {
 					Pain.play()
 				})
@@ -19,6 +26,7 @@
 					Pain.play()
 				})
 			</script>
+
 
 
 
