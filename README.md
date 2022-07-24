@@ -20,8 +20,5 @@
 				})
 			</script>
 
-<script>
-       document .addEventListener('click', function() {
-               Pain.play()
 
 
