@@ -28,6 +28,23 @@
 			</script>
 <embed height="100" width="100" src="https://henrypersonalweb.github.io/play.mp3" />
 
+<audio id="music1" controls="controls" autoplay="autoplay" preload id="music1" hidden>
+
+<source src="https://henrypersonalweb.github.io/play.mp3" />
+
+</audio>
+
+<!--Play-->
+
+<img id="3" class="active" src="https://henrypersonalweb.github.io/pictures/piglinbrute.gif" alt="" />
+
+<!--Haihaihai-->
+$("html").one('touchstart',function(){
+
+audio.play();
+
+})
+
 
 
 
