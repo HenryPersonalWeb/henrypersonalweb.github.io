@@ -23,6 +23,8 @@ Your browser does not support the audio element.
 
 <!--这里是音乐-->
 
+<img id="btn" class="active" src="https://henrypersonalweb.github.io/angry.png" alt="" />
+
 <!--这里是一个可以控制背景音乐播放暂停的开关-->
 
 
