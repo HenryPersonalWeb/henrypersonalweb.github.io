@@ -5,10 +5,7 @@
 ## [companion site](https://qqiumax.github.io/)
 ## OK
 
-![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) 
-
-  <source src="https://henrypersonalweb.github.io/play.mp3" type="audio/mpeg" />
-
+![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif)
 <audio id="music1" controls="controls" autoplay="autoplay" preload id="music1" hidden>
 
 <source src="https://henrypersonalweb.github.io/play.mp3" />
