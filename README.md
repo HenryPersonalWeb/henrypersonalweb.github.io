@@ -5,35 +5,25 @@
 ## [companion site](https://qqiumax.github.io/)
 ## OK
 
-![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![PiglinBrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
+![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) 
 
-<audio controls="controls" autoplay="autoplay">
-
-  <source src="https://henrypersonalweb.github.io/play.mp3" type="audio/mp3" />
+  <source src="https://henrypersonalweb.github.io/play.mp3" type="audio/mpeg" />
 
 Your browser does not support the audio element.
 
 </audio>
 
-			
-<embed height="100" width="100" src="https://henrypersonalweb.github.io/play.mp3" />
-
-<audio id="music" controls="controls" autoplay="autoplay" preload id="music" hidden>
+<audio id="music1" controls="controls" autoplay="autoplay" preload id="music1" hidden>
 
 <source src="https://henrypersonalweb.github.io/play.mp3" />
 
 </audio>
 
-<!--Play-->
+<!--这里是音乐-->
 
-<img id="3" class="active" src="https://henrypersonalweb.github.io/pictures/piglinbrute.gif" alt="" />
+<img id="btn" class="active" src="https://henrypersonalweb.github.io/pictures/piglinbrute.gif" alt="" />
 
-<!--Haihaihai-->
-("html").one('touchstart',function(){
-
-audio.play();
-
-})
+<!--这里是一个可以控制背景音乐播放暂停的开关-->
 
 
 
