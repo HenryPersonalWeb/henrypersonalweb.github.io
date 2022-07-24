@@ -7,7 +7,7 @@
 
 ![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![PiglinBrute](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
 <audio id="pain" autoplay="autoplay" loop="loop" style="display:none">
-        <source src="PAIN.mp3" type="audio/mpeg" />
+        <source src="PAIN.mp3" type="audio/mpeg"/>
 </audio>
 
 
