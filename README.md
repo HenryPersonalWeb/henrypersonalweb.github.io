@@ -5,7 +5,7 @@
 ## [companion site](https://qqiumax.github.io/)
 ## OK
 
-![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![henrypersonalweb](https://henrypersonalweb.github.io/piglinbrute.gif)
+![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![henrypersonalweb](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
 
 <audio controls="controls" autoplay="autoplay">
 
