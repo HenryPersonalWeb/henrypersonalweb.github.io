@@ -7,25 +7,7 @@
 
 ![GoldIngot](https://henrypersonalweb.github.io/pictures/goldingot.gif)![Celebrating Piglins](https://henrypersonalweb.github.io/pictures/piglin.gif) ![henrypersonalweb](https://henrypersonalweb.github.io/pictures/piglinbrute.gif)
 
-<audio controls="controls" autoplay="autoplay">
 
-  <source src="https://henrypersonalweb.github.io/play.mp3" type="audio/mpeg" />
-
-Your browser does not support the audio element.
-
-</audio>
-
-<audio id="music1" controls="controls" autoplay="autoplay" preload id="music1" hidden>
-
-<source src="https://henrypersonalweb.github.io/play.mp3" />
-
-</audio>
-
-<!--Play-->
-
-<img id="btn" class="active" src="henrypersonalweb.github.io/pictures/angry.png" alt="" />
-
-<!--Haihaihai-->
 
 
 
